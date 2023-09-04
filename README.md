@@ -42,7 +42,7 @@ This project aims to control the vibrator head of the European Magic Wand (EMW) 
 
 ## Integration with the European Magic Wand
 
-This motor controller project is part of a larger project to replicate the vibrator head of the European Magic Wand (EMW) from Denmark. The necessary STL files for the vibrator body can be found on [Thingiverse](https://www.thingiverse.com/thing:5776940).
+This motor controller project is part of a larger project to create a vibrator that uses the head of the European Magic Wand (EMW) from Denmark. The necessary STL files for the vibrator body can be found on [Thingiverse](https://www.thingiverse.com/thing:5776940).
 
 ## License
 
