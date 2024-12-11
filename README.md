@@ -1,8 +1,16 @@
 # Vibrator with PWM Motor Controller
 
+## Important Clarification
+
+I am aware that the European Magic Wand (EMW) is commonly known and marketed as a personal massager and is often used as a sex toy. However, this project is unrelated to such applications. I am a licensed therapist specializing in neurological physiotherapy. My professional focus lies in developing therapeutic tools for medical and rehabilitative use.
+
+The reason for choosing the EMW is its robust and effective vibration mechanism, originally inspired by the classic Hitachi Magic Wand, which was initially designed as a therapeutic massager. In my physiotherapeutic practice, vibration therapy is frequently employed to stimulate muscles, improve circulation, and aid in neurological rehabilitation.
+
+This project specifically targets creating a customized motor controller to use the EMW as a medical therapy device for professional applications. The intent is solely therapeutic, and I make no assumptions or judgments about how others might choose to use similar devices.
+
 ## Introduction
 
-This project aims to control the vibrator head of the European Magic Wand (EMW) from Denmark using a DIY motor controller. Essentially, this PWM motor controller can be used to precisely control DC motors. The foundation of this project is the ATTiny85 microcontroller, which enables precise motor speed control through Pulse Width Modulation (PWM). This project requires electronics, soldering, and programming skills. The primary goal is to replace the original EMW's 220V input voltage with a lower input voltage, such as from a power tool battery.
+This project aims to control the vibrator head of the European Magic Wand (EMW) from Denmark using a DIY motor controller.  Essentially, this PWM motor controller can be used to precisely control DC motors. The foundation of this project is the ATTiny85 microcontroller, which enables precise motor speed control through Pulse Width Modulation (PWM). This project requires electronics, soldering, and programming skills. The primary goal is to replace the original EMW's 220V input voltage with a lower input voltage, such as from a power tool battery.
 
 **Note:** The Arduino Sketch is available under `/software`, and the Fritzing files are under `/hardware`.
 
